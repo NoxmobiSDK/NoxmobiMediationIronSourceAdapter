@@ -1,0 +1,6 @@
+framework module NoxmobiMediationIronSourceAdapter {
+  umbrella header "NoxmobiMediationIronSourceAdapter.h"
+
+  export *
+  module * { export * }
+}
