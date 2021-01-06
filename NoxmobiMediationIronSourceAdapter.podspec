@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "NoxmobiMediationIronSourceAdapter"
-  spec.version      = "7.0.4.0.2" # Mark
+  spec.version      = "7.0.4.0.3" # Mark
   spec.summary      = "Noxmobi ad mediation adapter for IronSource."
   spec.homepage     = "https://github.com/NoxmobiSDK/NoxmobiMediationIronSourceAdapter"
   spec.license      = "MIT"
