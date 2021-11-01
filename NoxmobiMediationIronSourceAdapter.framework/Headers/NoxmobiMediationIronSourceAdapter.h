@@ -9,4 +9,4 @@
 
 #import <Foundation/Foundation.h>
 
-#define NoxmobiMediationIronSourceAdapterVersion @"7.1.10.0.0"
+#define NoxmobiMediationIronSourceAdapterVersion @"7.1.12.0.0"
