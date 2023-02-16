@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "NoxmobiMediationIronSourceAdapter"
-  spec.version      = "7.2.1.2.0" # Mark
+  spec.version      = "7.2.6.0.0" # Mark
   spec.summary      = "Noxmobi ad mediation adapter for IronSource."
   spec.homepage     = "https://github.com/NoxmobiSDK/NoxmobiMediationIronSourceAdapter"
   spec.license      = "MIT"
@@ -15,6 +15,6 @@ Pod::Spec.new do |spec|
   spec.ios.vendored_frameworks = 'NoxmobiMediationIronSourceAdapter.framework'
   spec.requires_arc = true
 
-  spec.dependency "IronSourceSDK", "7.2.1.2"
+  spec.dependency "IronSourceSDK", "7.2.6.0"# "7.2.1.2"
 
 end
